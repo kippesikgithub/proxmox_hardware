@@ -16,8 +16,7 @@ M2 Samsung PM9A1 512GB M2 NVME
 M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)  
 USB Conbee2 Zigbee dongle (extension cable 2mtr)  
 
-### Configs
-
+#### Configs
 ###### Grub bootloader
 To be able to passthrough the Google Coral TPU M2 (pci-e) to Virtual machines in Proxmox, some edits needs to be done in the Grub boot loader. Edit those lines in the PVE shell interface.  
 ![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/51a79f4b-a887-45e1-9d19-c059c60b139a)  
