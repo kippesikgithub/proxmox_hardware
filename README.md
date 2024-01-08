@@ -82,6 +82,20 @@ USB Conbee2 Zigbee dongle (extension cable 2mtr)
 ### VM & LXC
 Current Virtual machines and lxc containers.  
 
+#### Openmediavault NAS Storage
+Proxmox Virtual Machine  
+#### JellyFin
+Proxmox LXC  
+Mounts NFS volume 'Media' from the NAS Storage.  
+#### Sabnzbd
+Proxmox LXC  
+Mounts NFS volume 'Downloads' from the NAS Storage.  
+#### Grafana
+Proxmox LXC  
+Connects to InfluxDB server on PVE01.  
+#### Spotweb
+Proxmox LXC  
+
 # PVE03
 Physical Proxmox Backup server
 Powered-on: Nightly 1:00 - 3:00  
