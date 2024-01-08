@@ -1,5 +1,6 @@
 # proxmox hardware
 Description of Hardware setup for Home lab environment  
+TTeck Proxmox Helper Scripts: https://tteck.github.io/Proxmox/  
 
 ## PVE01
 Physical Proxmox Virtual Environment Server 1  
@@ -17,6 +18,21 @@ USB Conbee2 Zigbee dongle (extension cable 2mtr)
 
 #### VM & LXC
 Current Virtual machines and lxc containers.  
+
+##### Home Assistant
+Proxmox VM  
+6-cores  
+16GB RAM  
+Google Coral TPU M2 passthrough (frigate)  
+100GB Diskspace on 512GB nvme m2 drive  
+Home Assistant is the Smarthome platform I already use for over 7 years. 
+
+##### InfluxDB
+Proxmox LXC  
+2-cores  
+4GB RAM  
+50GB Diskspace on 512GB nvme m2 drive  
+InfluxDB stores all the data, real-time, coming from Home Assistant in the Influx Database. In InfluxDB I keep the whole history of data, to be able to Visualise this via Grafana.
 
 #### Configs
 
