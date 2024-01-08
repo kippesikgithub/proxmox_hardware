@@ -60,13 +60,13 @@ InfluxDB stores all the data, real-time, coming from Home Assistant in the Influ
 InfluxDB setup: https://github.com/kippesikgithub/influxdb_in_proxmox  
 
 
-## PVE02
+# PVE02
 Physical Proxmox Virtual Environment Server 2  
 Powered-on: Only when somebody home
 Powered-off: When nobody home for 4hr+ or Home assistant Holiday mode is activated  
 WOL: enabled (wake up server from Home assistant interface)  
 
-#### Hardware
+### Hardware
 Dell 3050M (dell micro)  
 Intel Core i5-8500T (4cores)  
 24GB SO-DIMM DDR4 RAM
@@ -76,12 +76,12 @@ M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)
 SATA HDD Seagate 5TB 2,5inch  
 USB Conbee2 Zigbee dongle (extension cable 2mtr)  
 
-#### VM & LXC
-Current Virtual machines and lxc containers.  
-
 #### Configs
 
-## PVE03
+### VM & LXC
+Current Virtual machines and lxc containers.  
+
+# PVE03
 Physical Proxmox Backup server
 Powered-on: Nightly 1:00 - 3:00  
 Powered-off: Nightly when backups are finished  
