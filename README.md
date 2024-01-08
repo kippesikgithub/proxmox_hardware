@@ -3,6 +3,8 @@ Description of Hardware setup for Home lab environment
 
 ## PVE01
 Physical Proxmox Virtual Environment Server 1  
+Powered-on: Always  
+WOL: enabled  
 
 #### Hardware
 Dell 3060M (dell micro)  
@@ -37,6 +39,9 @@ crontab_config
 
 ## PVE02
 Physical Proxmox Virtual Environment Server 2  
+Powered-on: Only when somebody home
+Powered-off: When nobody home for 4hr+ or Home assistant Holiday mode is activated  
+WOL: enabled (wake up server from Home assistant interface)  
 
 #### Hardware
 Dell 3050M (dell micro)  
@@ -54,7 +59,9 @@ Current Virtual machines and lxc containers.
 #### Configs
 
 ## PVE03
-Fysical Proxmox Backup server
-
+Physical Proxmox Backup server
+Powered-on: Nightly 1:00 - 3:00  
+Powered-off: Nightly when backups are finished  
+WOL: enabled (wake up server from Home assistant interface)  
 
 #### Hardware
