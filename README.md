@@ -4,6 +4,7 @@ TTeck Proxmox Helper Scripts: https://tteck.github.io/Proxmox/
 ![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/81dd9d3f-46b1-4e24-82df-2ac8e78132d9)
 
 # PVE01
+![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/3ac955a4-0c3e-4253-a3b8-72d3de5ea0c0)  
 Physical Proxmox Virtual Environment Server 1  
 Powered-on: Always  
 WOL: enabled  
@@ -62,6 +63,7 @@ InfluxDB setup: https://github.com/kippesikgithub/influxdb_in_proxmox
 
 
 # PVE02
+![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/a2c23de5-c9cf-4071-bd5d-27aa684873a8)  
 Physical Proxmox Virtual Environment Server 2  
 Powered-on: Only when somebody home
 Powered-off: When nobody home for 4hr+ or Home assistant Holiday mode is activated  
