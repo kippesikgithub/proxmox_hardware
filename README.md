@@ -17,11 +17,14 @@ USB Conbee2 Zigbee dongle (extension cable 2mtr)
 Current Virtual machines and lxc containers.  
 
 #### Configs
+
+##### Grub bootloader
 To be able to passthrough the Google Coral TPU M2 (pci-e) to Virtual machines in Proxmox, some edits needs to be done in the Grub boot loader. Edit those lines in the PVE shell interface.  
 ![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/51a79f4b-a887-45e1-9d19-c059c60b139a)  
 command: nano /etc/default/grub  
 grub_config  
 
+##### Interfaces
 ![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/9d4b6f01-cba3-4acf-a712-731efbfce806)  
 command: nano /etc/network/interfaces  
 interfaces_config  
