@@ -7,7 +7,7 @@ Physical Proxmox Virtual Environment Server 1
 Powered-on: Always  
 WOL: enabled  
 
-#### Hardware
+### Hardware
 Dell 3060M (dell micro)  
 Intel Core i5-9500T (6cores)  
 32GB SO-DIMM DDR4 RAM
@@ -16,10 +16,10 @@ M2 Samsung PM9A1 512GB M2 NVME
 M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)  
 USB Conbee2 Zigbee dongle (extension cable 2mtr)  
 
-#### VM & LXC
+### VM & LXC
 Current Virtual machines and lxc containers.  
 
-##### Home Assistant
+#### Home Assistant
 Proxmox VM  
 6-cores  
 16GB RAM  
