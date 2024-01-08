@@ -78,7 +78,7 @@ Intel Core i5-8500T (4cores)
 M2 Kioxa 256GB M2 NVME  
 M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)  
 SATA HDD Seagate 5TB 2,5inch  
-USB Conbee2 Zigbee dongle (extension cable 2mtr)  
+USB3 HDD Seagate 5TB 2,5inch  
 
 #### Configs
 
