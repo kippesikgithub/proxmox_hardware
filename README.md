@@ -49,6 +49,7 @@ Google Coral TPU M2 passthrough (frigate)
 Home Assistant is the Smarthome platform I already use for over 7 years.
 
 ##### Links
+Home Assistant Operating system: https://github.com/kippesikgithub/proxmox_haos  
 Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
 Frigate Setup: https://github.com/kippesikgithub/frigate  
 
