@@ -1,6 +1,7 @@
 # Proxmox HomeLab Setup
 Description of Hardware setup for Home lab environment  
 TTeck Proxmox Helper Scripts: https://tteck.github.io/Proxmox/  
+![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/81dd9d3f-46b1-4e24-82df-2ac8e78132d9)
 
 # PVE01
 Physical Proxmox Virtual Environment Server 1  
