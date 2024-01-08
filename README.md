@@ -10,7 +10,7 @@ Powered-on: Always
 WOL: enabled  
 
 ### Hardware
-Dell 3060M (dell micro)  
+Dell 3050M (dell micro)  
 Intel Core i5-9500T (6cores)  
 32GB SO-DIMM DDR4 RAM
 1GBit Network interface  
@@ -71,7 +71,7 @@ Powered-off: When nobody home for 4hr+ or Home assistant Holiday mode is activat
 WOL: enabled (wake up server from Home assistant interface)  
 
 ### Hardware
-Dell 3050M (dell micro)  
+Dell 3070M (dell micro)  
 Intel Core i5-8500T (4cores)  
 24GB SO-DIMM DDR4 RAM  
 1GBit Network interface  
