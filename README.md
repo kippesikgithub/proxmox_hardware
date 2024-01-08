@@ -39,7 +39,7 @@ crontab_config
 Current Virtual machines and lxc containers.  
 
 #### Home Assistant
-Proxmox VM  
+HAOS Proxmox VM  
 6-cores  
 16GB RAM  
 Google Coral TPU M2 passthrough (frigate)  
