@@ -27,6 +27,10 @@ Google Coral TPU M2 passthrough (frigate)
 100GB Diskspace on 512GB nvme m2 drive  
 Home Assistant is the Smarthome platform I already use for over 7 years. 
 
+###### Links
+Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
+Frigate Setup: https://github.com/kippesikgithub/frigate  
+
 ##### InfluxDB
 Proxmox LXC  
 2-cores  
