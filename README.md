@@ -73,7 +73,7 @@ WOL: enabled (wake up server from Home assistant interface)
 ### Hardware
 Dell 3050M (dell micro)  
 Intel Core i5-8500T (4cores)  
-24GB SO-DIMM DDR4 RAM
+24GB SO-DIMM DDR4 RAM  
 1GBit Network interface  
 M2 Kioxa 256GB M2 NVME  
 M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)  
