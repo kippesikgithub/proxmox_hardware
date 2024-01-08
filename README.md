@@ -83,7 +83,7 @@ USB Conbee2 Zigbee dongle (extension cable 2mtr)
 #### Configs
 
 ### VM & LXC
-![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/9e568dfd-f1c7-469d-a912-635e9e5f3de7)
+![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/9e568dfd-f1c7-469d-a912-635e9e5f3de7)  
 Current Virtual machines and lxc containers.  
 
 #### Openmediavault NAS Storage
