@@ -72,7 +72,7 @@ WOL: enabled (wake up server from Home assistant interface)
 
 ### Hardware
 Dell 3070M (dell micro)  
-Intel Core i5-8500T (4cores)  
+Intel Core i5-6400T (4cores)  
 24GB SO-DIMM DDR4 RAM  
 1GBit Network interface  
 M2 Kioxa 256GB M2 NVME  
