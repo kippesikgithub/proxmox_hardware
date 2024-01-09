@@ -16,7 +16,7 @@ WOL: enabled
 ### Hardware
 Dell 3050M (dell micro)  
 Intel Core i5-9500T (6cores)  
-32GB SO-DIMM DDR4 RAM
+32GB SO-DIMM DDR4 RAM  
 1GBit Network interface  
 M2 Samsung PM9A1 512GB M2 NVME  
 M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)  
