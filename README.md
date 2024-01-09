@@ -1,5 +1,7 @@
 # Proxmox HomeLab Setup
 Description of Hardware setup for Home lab environment  
+Welcome to my github repository, where you can find everything regarding our Proxmox environment, Home Assistant environment and beyond. You can find details and config (examples), information and explanation in this repo.  
+Want to know more about our Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
 TTeck Proxmox Helper Scripts: https://tteck.github.io/Proxmox/  
 ![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/81dd9d3f-46b1-4e24-82df-2ac8e78132d9)
 
