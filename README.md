@@ -2,6 +2,7 @@
 Welcome to my github repository, where you can find everything regarding our Proxmox environment, Home Assistant environment and beyond. You can find details and config (examples), information and explanation in this repo's.  
 Choosing the hardware for your setup: https://github.com/kippesikgithub/proxmox_hardware/blob/main/choosing_hardware.md  
 Choosing the right Operating system: https://github.com/kippesikgithub/proxmox_hardware/blob/main/choosing_operating_system.md  
+How To Install Proxmox: https://github.com/kippesikgithub/proxmox_hardware/blob/main/install_proxmox.md  
 Want to know more about our Home Assistant Setup: https://github.com/kippesikgithub/proxmox_haos  
 Want to know more about our Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
 TTeck Proxmox Helper Scripts: https://tteck.github.io/Proxmox/  
