@@ -115,3 +115,9 @@ Powered-off: Nightly when backups are finished
 WOL: enabled (wake up server from Home assistant interface)  
 
 #### Hardware
+
+## Handy Links
+### Add bigger HDD to Dell Micro pc (2.5inch 4TB or 5TB)
+Link: https://www.dell.com/community/en/conversations/optiplex-desktops/15mm-25-drive-in-3060-micro/647f8401f4ccf8a8de2db9ad  
+Modify Caddy, only keep side parts, put HDD screws in it.  
+![image](https://github.com/kippesikgithub/proxmox_hardware/assets/100353268/13808224-3d06-4a06-8ddf-2e235ab7ad58)
