@@ -50,7 +50,7 @@ Current Virtual machines and lxc containers.
 #### Home Assistant
 HAOS Proxmox VM  
 6-cores  
-16GB RAM  
+32GB RAM  
 Google Coral TPU M2 passthrough (frigate)  
 100GB Diskspace on 512GB nvme m2 drive  
 Home Assistant is the Smarthome platform I already use for over 7 years.
