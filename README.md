@@ -5,6 +5,7 @@ Choosing the right Operating system: https://github.com/kippesikgithub/proxmox_h
 How To Install Proxmox: https://github.com/kippesikgithub/proxmox_hardware/blob/main/install_proxmox.md  
 Want to know more about our Home Assistant Setup: https://github.com/kippesikgithub/proxmox_haos  
 Want to know more about our Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
+Want to know more about our Birdnet install: https://github.com/kippesikgithub/birdnet_install  
 TTeck Proxmox Helper Scripts: https://tteck.github.io/Proxmox/  
 
 # Proxmox HomeLab Setup
@@ -107,6 +108,8 @@ Proxmox LXC
 Connects to InfluxDB server on PVE01.  
 #### Spotweb
 Proxmox LXC  
+#### BirdNetPi
+Detects singing birds using RTSP audio feeds.  
 
 # PVE03
 Physical Proxmox Backup server
