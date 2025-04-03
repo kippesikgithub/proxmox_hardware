@@ -84,10 +84,9 @@ Dell 3070M (dell micro)
 Intel Core i5-6400T (4cores)  
 24GB SO-DIMM DDR4 RAM  
 1GBit Network interface  
-M2 Kioxa 256GB M2 NVME  
-M2 Google Coral TPU A/E key (wifi/bluetooth m2 slot)  
+M2 WDC SN180 1TB NVME  
 SATA HDD Seagate 5TB 2,5inch  
-USB3 HDD Seagate 5TB 2,5inch  
+USB3 HDD Seagate 4TB 2,5inch  
 
 #### Configs
 
